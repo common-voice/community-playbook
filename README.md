@@ -185,7 +185,7 @@ Collect and validate as many voices as possible in our languages. Having more vo
 * 2,000 hours of voice validated to train a near-human general ASR model.
 * 10,000 hours of voice validated for a very high quality, general, large vocabulary, continuous speech recognition model.
 
-![alt_text](images/image1.png "image_tooltip")
+![Data quantities](https://lh4.googleusercontent.com/NG1nh5JjSqjXcqZe0tnhqOUjjEg6KcE1KmHOfD-aZnkTyc8Ume9K0xN2vwMbDiAa3xc8Sj2UWD9QZn6dOP4GHSqrvE-syxWnBb8tPM4eSBP8zbApUAJ1ZARuXyFMLW2OBwmjkH6P)
 
 ### How to join
 
