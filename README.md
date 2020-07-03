@@ -41,7 +41,7 @@ The work done by these communities advance a language from not having a presence
   <tr>
    <td>📝
    </td>
-   <td><strong>Text corpus</strong>
+    <td><strong><a href="#-text-corpus">Text corpus</a></strong>
 <p>
 Gathering, validating and processing public domain sentences.
    </td>
@@ -49,7 +49,7 @@ Gathering, validating and processing public domain sentences.
   <tr>
    <td>🗣
    </td>
-   <td><strong>Voice corpus</strong>
+   <td><strong><a href="#-voice-corpus">Voice corpus</a></strong>
 <p>
 Recording and validating voices to create a public domain dataset.
 <p>
@@ -58,7 +58,7 @@ Recording and validating voices to create a public domain dataset.
   <tr>
    <td>🌍
    </td>
-   <td><strong>Localization</strong>
+    <td><strong><a href="#-localization">Localization</a></strong>
 <p>
 Adapting the project tools and materials to be understood by a specific audience.
 <p>
