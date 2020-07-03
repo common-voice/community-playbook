@@ -189,7 +189,7 @@ Collect and validate as many voices as possible in our languages. Having more vo
 
 ### How to join
 
-Anyone can join this community. Join our [discourse forums](https://discourse.mozilla.org/c/voice/) or our [matrix chat](https://chat.mozilla.org/#/room/#common-voice:mozilla.org) and introduce yourself, jump into [Common Voice site](voice.mozilla.org), get familiar with it and start donating your voice.
+Anyone can join this community. Join our [discourse forums](https://discourse.mozilla.org/c/voice/) or our [matrix chat](https://chat.mozilla.org/#/room/#common-voice:mozilla.org) and introduce yourself, jump into [Common Voice site](https://voice.mozilla.org), get familiar with it and start donating your voice.
 
 🔨 _You don’t need any specialized skill to contribute to this community, you only need to be able to speak into a microphone or listen to audio clips._
 
