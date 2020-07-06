@@ -42,8 +42,9 @@ The work done by these communities advance a language from not having a presence
    <td>📝
    </td>
     <td><strong><a href="#-text-corpus">Text corpus</a></strong>
-<p>
-Gathering, validating and processing public domain sentences.
+<p>Gathering, validating and processing public domain sentences.<br/>
+  <a href="#our-purpose">Purpose</a> - <a href="#who-we-are">Who we are</a> - <a href="#whats-success">Success</a> - <a href="#how-to-join">How to join</a> - <a href="#what-we-do">What we do</a> - <a href="#roles">Roles</a> - <a href="#channels">Channels</a>
+</p>
    </td>
   </tr>
   <tr>
@@ -51,8 +52,9 @@ Gathering, validating and processing public domain sentences.
    </td>
    <td><strong><a href="#-voice-corpus">Voice corpus</a></strong>
 <p>
-Recording and validating voices to create a public domain dataset.
-<p>
+Recording and validating voices to create a public domain dataset.<br/>
+  <a href="#our-purpose-1">Purpose</a> - <a href="#who-we-are-1">Who we are</a> - <a href="#whats-success-1">Success</a> - <a href="#how-to-join-1">How to join</a> - <a href="#what-we-do-1">What we do</a> - <a href="#roles-1">Roles</a> - <a href="#channels-1">Channels</a>
+</p>
    </td>
   </tr>
   <tr>
@@ -60,8 +62,9 @@ Recording and validating voices to create a public domain dataset.
    </td>
     <td><strong><a href="#-localization">Localization</a></strong>
 <p>
-Adapting the project tools and materials to be understood by a specific audience.
-<p>
+Adapting the project tools and materials to be understood by a specific audience.<br/>
+  <a href="#our-purpose-2">Purpose</a> - <a href="#who-we-are-2">Who we are</a> - <a href="#whats-success-2">Success</a> - <a href="#how-to-join-2">How to join</a> - <a href="#what-we-do-2">What we do</a> - <a href="#roles-2">Roles</a> - <a href="#channels-2">Channels</a>
+</p>
    </td>
   </tr>
   <tr>
