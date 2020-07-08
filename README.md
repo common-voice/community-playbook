@@ -1,6 +1,6 @@
 # 👥 📕 Mozilla Voice Community Playbook V1.0
 
-*Last update: July 3rd 2020*
+*Last update: July 8th 2020*
 
 *Content coordination: Rubén Martín <rmartin@mozilla.com>*
 
