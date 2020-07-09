@@ -10,4 +10,5 @@ include:
 theme: jekyll-theme-minimal
 title: Mozilla Voice Community Playbook
 description: https://voice.mozilla.org
+logo: /assets/img/logo.png
 show_downloads: true
