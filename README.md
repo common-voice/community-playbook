@@ -39,10 +39,6 @@ Mozilla Voice has a variety of communities that support the project in different
 The work done by these communities advance a language from not having a presence in Mozilla Voice at all to being able to generate a functional STT model which is able to understand how people speak.
 
 <table>
-  <colgroup>
-  <col style="width: 50%" />
-  <col style="width: 50%" />
-  </colgroup>
   <tbody>
     <tr>
       <td>📝</td>
