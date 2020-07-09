@@ -21,7 +21,7 @@ Mozilla Voice communities are governed by Mozilla's code of conduct and etiquett
 
 We encourage you to please read[ Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/) before contributing to this project.
 
-For more information on how to report violations of the Community Participation Guidelines, please read our '[How to Report](https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/)' page.
+For more information on how to report violations of the Community Participation Guidelines, please read our '[How to Report](https://www.mozilla.org/about/governance/policies/participation/reporting/)' page.
 
 
 ## Governance
