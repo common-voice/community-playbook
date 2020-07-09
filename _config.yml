@@ -8,5 +8,5 @@ include:
   - LICENSE.md
 
 theme: jekyll-theme-minimal
-title: [Mozilla Voice Community Playbook]
-description: [https://voice.mozilla.org]
+title: Mozilla Voice Community Playbook
+description: https://voice.mozilla.org
