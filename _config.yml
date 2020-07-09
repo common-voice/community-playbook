@@ -10,3 +10,4 @@ include:
 theme: jekyll-theme-minimal
 title: Mozilla Voice Community Playbook
 description: https://voice.mozilla.org
+show_downloads: true
