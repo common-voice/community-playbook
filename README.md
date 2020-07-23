@@ -1,6 +1,6 @@
-# 👥 📕 Mozilla Voice Community Playbook V1.0
+# 👥 📕 Mozilla Voice Community Playbook V1.1
 
-- *Last update: July 9th 2020*
+- *Last update: July 23th 2020*
 - *[Edit this document and propose a change](https://github.com/Common-Voice/community-playbook/edit/master/README.md)*
 - *Content coordination: Rubén Martín <rmartin@mozilla.com>*
 - *[License](./LICENSE)*
@@ -36,7 +36,11 @@ Some community roles exist formally and informally, and they all should follow [
 
 Mozilla Voice has a variety of communities that support the project in different important areas, they are usually grouped by language.
 
-The work done by these communities advance a language from not having a presence in Mozilla Voice at all to being able to generate a functional STT model which is able to understand how people speak.
+The work done by these communities advance a language from not having a presence in Mozilla Voice at all to being able to generate a functional speech to text (STT) model which is able to understand how people speak.
+
+![Voice journey quantities](/assets/img/voice-journey.png)
+
+✈️ The journey involves collect and validate public domain sentences (1), record and validate voices reading the sentences (2), repeat to grow the size of the data (3), generate a dataset (4) and use machine learning to train speech to text models using this dataset (5).
 
 <table>
   <tbody>
