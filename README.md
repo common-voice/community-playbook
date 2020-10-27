@@ -122,9 +122,9 @@ This is the easiest and fastest way to get more than a million sentences as soon
 
 #### **Sentence collection**
 
-We have also created a [sentence collection tool](https://common-voice.github.io/sentence-collector/#/) that allows contributors to collect and validate sentences created by the community. You can use this tool also to import and clean-up small-to-medium-sized public domain corpus you have found or collected.
+We have also created a [sentence collection tool](https://commonvoice.mozilla.org/sentence-collector/#/) that allows contributors to collect and validate sentences created by the community. You can use this tool also to import and clean-up small-to-medium-sized public domain corpus you have found or collected.
 
-ℹ️ _Please read [the collector how-to](https://common-voice.github.io/sentence-collector/#/how-to) before using this tool and check the [community guidelines on how to validate sentences](https://discourse.mozilla.org/t/discussion-of-new-guidelines-for-uploaded-sentence-validation/37718)_.
+ℹ️ _Please read [the collector how-to](https://commonvoice.mozilla.org/sentence-collector/#/how-to) before using this tool and check the [community guidelines on how to validate sentences](https://discourse.mozilla.org/t/discussion-of-new-guidelines-for-uploaded-sentence-validation/37718)_.
 
 🔨 _Skills required to help: Strong grammar knowledge of the target language you are contributing to._
 
@@ -141,7 +141,7 @@ If you have found an existing public domain corpus bigger than 100K sentences, w
 Contributors also develop, maintain and update the sentence extractor and collector code.
 
 * Sentence Extractor: 🐞 [Open issues](https://github.com/Common-Voice/cv-sentence-extractor/projects/1?fullscreen=true) - 🔨 _Skills needed: Rust_
-* Sentence Collector: 🐞 [Open issues](https://github.com/Common-Voice/sentence-collector/projects/2?fullscreen=true) - 🔨 _Skills needed: React, JavaScript (and soon Node.js)_
+* Sentence Collector: 🐞 [Open issues](https://github.com/Common-Voice/sentence-collector/projects/2?fullscreen=true) - 🔨 _Skills needed: React, JavaScript, Node.js_
 
 ### Roles
 
