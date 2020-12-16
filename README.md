@@ -3,7 +3,7 @@
 - *Last update: July 23th 2020*
 - *[Edit this document and propose a change](https://github.com/Common-Voice/community-playbook/edit/master/README.md)*
 - *Content coordination: Rubén Martín*
-- *[License](./LICENSE)*
+- *[License](./LICENSE.md)*
 
 Mozilla Voice communities empower the collection of machine-learning based voice technologies -- including software, tools, and data -- that Mozilla stands behind.
 
