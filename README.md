@@ -40,7 +40,7 @@ The work done by these communities advance a language from not having a presence
 
 ![Voice journey quantities](/assets/img/voice-journey.png)
 
-✈️ The journey involves collect and validate public domain sentences (1), record and validate voices reading the sentences (2), repeat to grow the size of the data (3), generate a dataset (4) and use machine learning to train speech to text models using this dataset (5).
+✈️ The journey involves collecting and validating public domain sentences (1), recording and validating the recordings of the sentences (2), repeating this process to grow the size of the data (3), generating a dataset (4) and using machine learning to train speech-to-text models using this dataset (5).
 
 <table>
   <tbody>
