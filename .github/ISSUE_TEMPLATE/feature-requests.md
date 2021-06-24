@@ -1,8 +1,8 @@
 ---
-name: 
+name: Feature Requests
 about: Template for proposing a new feature
-title: 
-labels: ''
+title: feature request
+labels: enhancement
 assignees: ''
 
 ---
