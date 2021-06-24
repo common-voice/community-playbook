@@ -38,8 +38,6 @@ Common Voice Ecosystem has a variety of communities that support the project in 
 
 Here is a list of some of the [langauge community channels](https://github.com/common-voice/common-voice/blob/main/docs/COMMUNITIES.md) that you can take part in. 
 
-[ need to highlight beneficiaries]
-
 ![Voice journey quantities](/assets/img/voice-journey.png)
 
 ✈️ The journey involves collecting and validating public domain sentences (1), recording and validating the recordings of the sentences (2), repeating this process to grow the size of the data (3), generating a dataset (4) and using machine learning to train speech-to-text models using this dataset (5).
