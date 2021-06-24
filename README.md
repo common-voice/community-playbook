@@ -5,7 +5,7 @@
 - Content coordination: Hillary Juma - Common Voice Community Manager 
 - *[License](./LICENSE.md)*
 
-Mozilla Voice communities empower the collection of machine-learning based voice technologies -- including software, tools, and data -- that Mozilla stands behind.
+Common Voice communities empower the collection of machine-learning based voice technologies -- including software, tools, and data -- that Mozilla stands behind.
 
 ## Goals for this playbook
 
