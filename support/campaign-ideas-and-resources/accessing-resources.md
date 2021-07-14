@@ -1,2 +1,2 @@
-# Accessing resources
+# Resources
 
