@@ -1,8 +1,6 @@
-# Voice Corpus
+# 🗣Voice Corpus
 
-### 🗣 Voice corpus
-
-#### Our purpose
+### Our purpose
 
 Donate and validate our voices under [public domain](https://voice.mozilla.org/terms) licence to generate a dataset usable by Speech to Text technologies to train models in different languages democratizing voice technology.
 

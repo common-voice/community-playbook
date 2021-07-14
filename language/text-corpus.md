@@ -1,8 +1,6 @@
-# Text Corpus
+# 📝 Text Corpus
 
-### 📝 Text corpus
-
-#### Our purpose
+##  Our purpose
 
 Collect or generate text corpus under public domain licence that can be read by people to facilitate their voice donations.
 

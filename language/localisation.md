@@ -1,6 +1,6 @@
-# Localisation
+# 🌍 Localisation
 
-🌍 Localization
+ Localization
 
 #### Our purpose
 
