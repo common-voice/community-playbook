@@ -16,7 +16,7 @@ Collect and validate as many voices as possible in our languages. Having more vo
 * 2,000 hours of voice validated to train a near-human general STT model.
 * 10,000 hours of voice validated for a very high quality, general, large vocabulary, continuous speech recognition model.
 
-![Data quantities](../.gitbook/assets/data-quantities.png)
+![Data quantities](../../.gitbook/assets/data-quantities.png)
 
 #### 
 

@@ -6,11 +6,15 @@
 ## Languages of Common Voice <a id="language"></a>
 
 * [Language Communities and Contributors](language/language-communities-+-contributors/README.md)
-  * [Open Leadership](language/language-communities-+-contributors/open-leadership.md)
+  * [Langauge Communities](language/language-communities-+-contributors/langauge-communities.md)
   * [Open Source Newbie](language/language-communities-+-contributors/open-source-newbie.md)
-* [🌍 Localisation](language/localisation.md)
-* [📝 Text Corpus](language/text-corpus.md)
-* [🗣Voice Corpus](language/voice-corpus.md)
+  * [Open Leadership](language/language-communities-+-contributors/open-leadership.md)
+* [🌍 Localisation](language/localisation/README.md)
+  * [Case studies](language/localisation/case-studies.md)
+* [📝 Text Corpus](language/text-corpus/README.md)
+  * [Case studies](language/text-corpus/case-studies.md)
+* [🗣Voice Corpus](language/voice-corpus/README.md)
+  * [Case studies](language/voice-corpus/case-studies.md)
 
 ## Support and tips <a id="support"></a>
 

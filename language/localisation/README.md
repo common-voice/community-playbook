@@ -1,7 +1,5 @@
 # 🌍 Localisation
 
- Localization
-
 #### Our purpose
 
 Adapting the project tools and material to be understood by a specific audience.
