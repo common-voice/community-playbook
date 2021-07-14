@@ -22,6 +22,6 @@
 
 ## Playbook Maintance <a id="maintance"></a>
 
-* [Playbook maintaince](maintance/playbook-maintaince.md)
+* [Become a reviewer](maintance/playbook-maintaince.md)
 * [Localising Playbook](maintance/localising-playbook.md)
 
