@@ -16,7 +16,7 @@
 
 * [Diversity, Equity and Inclusion](support/diversity-equity-and-inclusion/README.md)
   * [Creating inclusive communities](support/diversity-equity-and-inclusion/creating-inclusive-communities.md)
-  * [Untitled](support/diversity-equity-and-inclusion/untitled.md)
+  * [Recognition](support/diversity-equity-and-inclusion/untitled.md)
 * [Campaign ideas and resources](support/campaign-ideas-and-resources/README.md)
   * [Previous campaigns and events](support/campaign-ideas-and-resources/previous-campaigns-and-events.md)
   * [Resources](support/campaign-ideas-and-resources/accessing-resources.md)
