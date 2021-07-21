@@ -1,4 +1,4 @@
-# 👥 📕 Mozilla Voice Community Playbook V1.1
+# 👥 📕 Mozilla Common Voice Community Playbook V1.1
 
 - *Last update: July 23th 2020, Content Coordination led by Rubén Martín*
 - V.1 is currently going under a Community review, you can take part through this [survey](https://discourse.mozilla.org/t/common-voice-weekly-update-1st-july/82506)
