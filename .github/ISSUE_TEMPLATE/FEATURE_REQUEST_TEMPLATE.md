@@ -1,9 +1,9 @@
 ---
-name: 
-about: Template for proposing a new feature
-title: 
-labels: ''
-assignees: ''
+name: Content request
+about: Content that you would like featured onto the playbook
+title: Content request
+labels: 'content'
+assignees: '@heyhillary'
 
 ---
 
