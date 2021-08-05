@@ -307,11 +307,8 @@ These are some roles you can take as part of this community.
 
 
 ### Channels
-![Voice journey quantities](.gitbook/assets/voice-journey.png)
-
 
 * [Common Voice discourse](https://discourse.mozilla.org/c/voice/) category.
-✈️ The journey involves collecting and validating public domain sentences \(1\), recording and validating the recordings of the sentences \(2\), repeating this process to grow the size of the data \(3\), generating a dataset \(4\) and using machine learning to train speech-to-text models using this dataset \(5\).
 * [Common Voice matrix](https://chat.mozilla.org/#/room/#common-voice:mozilla.org) chat room.
 * [Mozilla Localization matrix](https://chat.mozilla.org/#/room/#l10n-community:mozilla.org) chat room.
 * [Common Voice project announcements](https://discourse.mozilla.org/tags/c/voice/announcements).
