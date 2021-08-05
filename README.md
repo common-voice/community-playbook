@@ -91,6 +91,12 @@ The next three sections explain in detail, what you need to complete each stage.
 
 <table>
   <tbody>
+      <tr>
+      <td>🌍</td>
+      <td><strong><a href="#-localization">Localization</a></strong>
+      <p>Translating project tools and material to be understood by contributors in their language<br />
+      <a href="#our-purpose-2">Purpose</a> - <a href="#who-we-are-2">Who we are</a> - <a href="#whats-success-2">Success</a> - <a href="#how-to-join-2">How to join</a> - <a href="#what-we-do-2">What we do</a> - <a href="#roles-2">Roles</a> - <a href="#channels-2">Channels</a></p></td>
+    </tr>
     <tr>
       <td>📝</td>
       <td><strong><a href="#-text-corpus">Text corpus</a></strong>
@@ -104,15 +110,9 @@ The next three sections explain in detail, what you need to complete each stage.
       <a href="#our-purpose-1">Purpose</a> - <a href="#who-we-are-1">Who we are</a> - <a href="#whats-success-1">Success</a> - <a href="#how-to-join-1">How to join</a> - <a href="#what-we-do-1">What we do</a> - <a href="#roles-1">Roles</a> - <a href="#channels-1">Channels</a></p></td>
     </tr>
     <tr>
-      <td>🌍</td>
-      <td><strong><a href="#-localization">Localization</a></strong>
-      <p>Adapting the project tools and materials to be understood by a specific audience.<br />
-      <a href="#our-purpose-2">Purpose</a> - <a href="#who-we-are-2">Who we are</a> - <a href="#whats-success-2">Success</a> - <a href="#how-to-join-2">How to join</a> - <a href="#what-we-do-2">What we do</a> - <a href="#roles-2">Roles</a> - <a href="#channels-2">Channels</a></p></td>
-    </tr>
-    <tr>
       <td>🤖</td>
-      <td><strong>Model training (TBD)</strong>
-      <p>Using our text and voice datasets to train and optimize STT models in specific languages using machine learning.</p></td>
+      <td><strong> Our Voices (TBD)</strong>
+      <p>Individuals, Researchers and organisations using Common Voice Datasets to train and optimize SST models in specific languages using machine learning.</p></td>
     </tr>
   </tbody>
 </table>
