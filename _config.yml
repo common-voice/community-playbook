@@ -6,6 +6,8 @@ relative_links:
 include:
   - README.md
   - LICENSE.md
+  - sub_pages/mobilization.md
+  - sub_pages/communities.md
 
 theme: jekyll-theme-minimal
 title: Community Playbook
