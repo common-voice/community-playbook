@@ -14,12 +14,8 @@ Mozilla Common Voice communities empower the collection of machine-learning base
 
 
 * Provide people interested in contributing to Mozilla Voice goals and mission with clear guidelines and expectations on how to set up and run a self-sustaining Mozilla Voice community.
-* Provide people interested in contributing to Common Voice goals and mission with clear guidelines and expectations on how to set up and run a self-sustaining Common Voice langauge community.
-* Unify existing community knowledge previously documented in different places.
 * Unify existing community knowledge previously documented in different places.
 * Be the central place to understand the whole voice community journey.
-* Be the central place to understand the whole voice community journey.
-* Communicate what brings value to the project and how communities can support it.
 * Communicate what brings value to the project and how communities can support it.
 
 
