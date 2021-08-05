@@ -16,11 +16,9 @@ For Common Voice site issues, please share these on out [github](https://github.
 
 ## Language Communities of Common Voice
 
--
--
--
--
--
+There are currently 140 langauges contributing either text, voice clips and localisations on Common Voice. 
+
+View the full list on [Common Voice Website](https://commonvoice.mozilla.org/en/languages) 
 
 
 
