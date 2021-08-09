@@ -2,13 +2,11 @@
 
 - *Content coordination: Hillary Juma, Common Voice Community Manager*
 - The Playbook is currently being updated 
-- *[Edit this document and propose a change](https://github.com/common-voice/community-playbook/issues)*
 - *[License](./LICENSE.md)*
-- Change log (to add)
 
 ## Welcome to Common Voice Community  🥳
 
-Common Voice is a Mozilla initiative to ensure machines understand how real people talk.
+Mozilla Common Voice is an initiative to help teach machines how real people speak.
 
 Common Voice communities empower the collection of machine-learning-based voice technologies -- including software, tools, and data -- that Mozilla stands behind.
 
@@ -17,7 +15,7 @@ Whether you are new to open source, haven’t ever coded, or have technical skil
 
 Thank you to our authors, reviewers and maintainers of the community playbook without your support this playbook wouldn’t be possible!
 
-💬  Learn more about how we [maintain the playbook]().
+💬  Learn more about how we [maintain the playbook](https://github.com/common-voice/community-playbook/blob/master/sub_pages/maintaince.md).
 
 
 ## Participation Guidelines
