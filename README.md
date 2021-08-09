@@ -241,6 +241,12 @@ Contributors also develop, maintain and update the sentence extractor and collec
 * Sentence Extractor: 🐞 [Open issues](https://github.com/Common-Voice/cv-sentence-extractor/projects/1?fullscreen=true) - 🔨 _Skills needed: Rust_
 * Sentence Collector: 🐞 [Open issues](https://github.com/Common-Voice/sentence-collector/projects/2?fullscreen=true) - 🔨 _Skills needed: React, JavaScript, Node.js_
 
+#### Collaborating with publishers of copyrighted works
+
+We build relationships with organisations or individuals who would be happy to donate their text under a Public domain license. 
+
+⚠️ _Important: Due to legal reasons Mozilla you will have to confirm the agreement with the copyright owner. To request a review by Mozilla please follow this guide[to be published].
+
 ### Roles
 
 These are some roles you can take as part of this community.
@@ -250,7 +256,8 @@ These are some roles you can take as part of this community.
 * Text creator - Generate your own sentences and release them under public domain.
 * Validator - Help validate and review existing cleaned-up sentences.
 * Mobilizer - Help people in the community to get started and keep contributing.
-* Developer - Develop, maintain and update the sentence tooling.
+* Developer - Develop, maintain and update the sentence tooling
+* Linguist - Providing advice on grammatically or linguistic needs, for example, large corpus validation 
 
 ### Channels
 
