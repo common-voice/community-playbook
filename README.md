@@ -46,12 +46,12 @@ To help you quickly navigate the playbook, this list provides you with possible 
 
 **I would like to....**
 
-- Add my language to Common Voice
-- Contribute text to help build the Common Voice dataset
-- Learn more about recording and validating voices on Common voice 
-- Build a language community and access engagement materials
-- Connect with language communities across Common Voice
-- Localise the playbook for my language community 
+- [Add my language to Common Voice](https://discourse.mozilla.org/t/readme-how-to-see-my-language-on-common-voice/31530)
+- [Contribute text to help build the Common Voice dataset](#-text-corpus)
+- [Learn more about recording and validating voices on Common voice](#-voice-corpus) 
+- [Build a language community and access engagement materials](https://github.com/common-voice/community-playbook/blob/master/sub_pages/mobilization.md)
+- [Connect with language communities across Common Voice](https://github.com/common-voice/community-playbook/blob/master/sub_pages/communities.md)
+- [Localise the playbook for my language community](https://github.com/common-voice/community-playbook/blob/master/sub_pages/maintaince.md) 
 
 
 ## Common Voice Communities
