@@ -4,7 +4,7 @@ Mozilla Common Voice datasets are released under a [CC0 “No Rights Reserved”
 This means that works subject to copyright cannot be added to Common Voice datasets. 
 But some copyright owners are willing to make a CC0 waiver, dedicating their work to the public domain so that it can be contributed to Common Voice.
 
-We have created a Contributions Agreement template [Link](sub_pages/Common Voice ContributionAgmt - [1722573] - Template.pdf) for works where the copyright owner would like to contribute the material to Common Voice. 
+We have created a Contributions Agreement template [Link](https://github.com/common-voice/community-playbook/blob/draft/sub_pages/Common%20Voice%20ContributionAgmt%20-%20%5B1722573%5D%20-%20Template.pdf) for works where the copyright owner would like to contribute the material to Common Voice. 
 The form aims to support communities and organisations that would like to contribute original material that, without a CC0 waiver, could not be part of Common Voice.
 
 ## What you need to do:
