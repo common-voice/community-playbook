@@ -245,9 +245,9 @@ Contributors also develop, maintain and update the sentence extractor and collec
 
 #### Collaborating with publishers of copyrighted works
 
-We build relationships with organisations or individuals who would be happy to donate their text under a Public domain license. This process is outlined on [cc0waiver_process page](sub_pages/cc0waiver_process.md). 
+We build relationships with organisations or individuals who would be happy to donate their text under a Public domain license. 
 
-⚠️ _Important: Due to legal reasons Mozilla you will have to confirm the agreement with the copyright owner. To request a review by Mozilla please follow this guide[to be published].
+⚠️ _Important: Due to legal reasons Mozilla you will have to confirm the agreement with the copyright owner. This process is outlined on [cc0waiver_process page](sub_pages/cc0waiver_process.md). 
 
 ### Roles
 
