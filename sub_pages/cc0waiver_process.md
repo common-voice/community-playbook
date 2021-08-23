@@ -5,7 +5,7 @@
 - Chapter 3: [Voice](https://common-voice.github.io/community-playbook/sub_pages/voice.html)
 
 
-# How to use: COMMON VOICE CONTRIBUTION AGREEMENT FORM 
+# How to use: "Common Voice Contribution Agreement Form"
 
 Mozilla Common Voice datasets are released under a [CC0 “No Rights Reserved” License](https://creativecommons.org/share-your-work/public-domain/cc0/) and are part of the public domain. 
 This means that works subject to copyright cannot be added to Common Voice datasets. 
