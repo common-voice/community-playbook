@@ -9,8 +9,9 @@ include:
   - sub_pages/mobilization.md
   - sub_pages/communities.md
 
+
 theme: jekyll-theme-minimal
-title: Community Playbook
-description: https://voice.mozilla.org
+title:  Mozilla Common Voice Community Playbook 
+description: https://commonvoice.mozilla.org
 logo: /assets/img/logo.png
 show_downloads: true
