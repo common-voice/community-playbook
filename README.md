@@ -99,7 +99,7 @@ The next three sections explain in detail, what you need to complete each stage.
   <tbody>
       <tr>
       <td>🌍</td>
-      <td><strong><a href="#-localization">Localization</a></strong>
+      <td><strong><a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/Localization.md">Localization</a></strong>
       <p>Translating project tools and material to be understood by contributors in their language<br />
       <a href="#our-purpose-2">Purpose</a> - <a href="#who-we-are-2">Who we are</a> - <a href="#whats-success-2">Success</a> - <a href="#how-to-join-2">How to join</a> - <a href="#what-we-do-2">What we do</a> - <a href="#roles-2">Roles</a> - <a href="#channels-2">Channels</a></p></td>
     </tr>
