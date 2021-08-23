@@ -13,8 +13,7 @@ The playbook is a living document, we welcome suggestions that make this playboo
 
 **Submitting content for the playbook**:
 
-Please use the issue form called [content request], which could be valuable to all and other language communities on Common Voice
-This could be a case study, change request for links, or a copy suggestion.
+Please use the issue form called [feature request](https://github.com/common-voice/community-playbook/issues/new/choose), which could be valuable to all and other language communities on Common Voice. This could be a case study, change request for links, or a copy suggestion.
 
 ## Maintenance cycle [draft]
 
