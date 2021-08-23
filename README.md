@@ -105,9 +105,9 @@ The next three sections explain in detail, what you need to complete each stage.
     </tr>
     <tr>
       <td>📝</td>
-      <td><strong><a href="#-text-corpus">Text corpus</a></strong>
+      <td><strong><a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/text.md">Text corpus</a></strong>
       <p>Gathering, validating and processing public domain sentences.<br />
-      <a href="#our-purpose">Purpose</a> - <a href="#who-we-are">Who we are</a> - <a href="#whats-success">Success</a> - <a href="#how-to-join">How to join</a> - <a href="#what-we-do">What we do</a> - <a href="#roles">Roles</a> - <a href="#channels">Channels</a></p></td>
+      <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/text.md/#our-purpose">Purpose</a> - <a href="#who-we-are">Who we are</a> - <a href="#whats-success">Success</a> - <a href="#how-to-join">How to join</a> - <a href="#what-we-do">What we do</a> - <a href="#roles">Roles</a> - <a href="#channels">Channels</a></p></td>
     </tr>
     <tr>
       <td>🗣</td>
