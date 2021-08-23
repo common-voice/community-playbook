@@ -1,3 +1,10 @@
+### Menu
+- [Homepage](https://common-voice.github.io/community-playbook/)
+- Chapter 1: [Localization](https://common-voice.github.io/community-playbook/sub_pages/Localization.html)
+- Chapter 2: [Text](https://common-voice.github.io/community-playbook/sub_pages/text.html)
+- Chapter 3: [Voice](https://common-voice.github.io/community-playbook/sub_pages/voice.html)
+
+
 # How to use: COMMON VOICE CONTRIBUTION AGREEMENT FORM 
 
 Mozilla Common Voice datasets are released under a [CC0 “No Rights Reserved” License](https://creativecommons.org/share-your-work/public-domain/cc0/) and are part of the public domain. 
