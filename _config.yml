@@ -13,5 +13,5 @@ include:
 theme: jekyll-theme-minimal
 title:  Community Playbook 
 description: https://commonvoice.mozilla.org
-logo: /assets/img/lcv-logo-bw.svg
+logo: /assets/img/CV_Logo.png
 show_downloads: true
