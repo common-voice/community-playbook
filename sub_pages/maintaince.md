@@ -1,3 +1,10 @@
+### Menu
+- [Homepage](https://common-voice.github.io/community-playbook/)
+- Chapter 1: [Localization](https://common-voice.github.io/community-playbook/sub_pages/Localization.html)
+- Chapter 2: [Text](https://common-voice.github.io/community-playbook/sub_pages/text.html)
+- Chapter 3: [Voice](https://common-voice.github.io/community-playbook/sub_pages/voice.html)
+
+
 # Maintaince page
 
 The Mozilla Common Voice community playbook is coordinated by the community manager and maintained by Common Voice reps. 
