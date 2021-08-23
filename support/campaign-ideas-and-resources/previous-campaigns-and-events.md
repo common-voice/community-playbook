@@ -1,2 +1,0 @@
-# Previous campaigns and events
-
