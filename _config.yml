@@ -11,7 +11,7 @@ include:
 
 
 theme: jekyll-theme-minimal
-title:  Mozilla Common Voice Community Playbook 
+title:  Community Playbook 
 description: https://commonvoice.mozilla.org
-logo: /assets/img/logo.png
+logo: /assets/img/lcv-logo-bw.svg
 show_downloads: true
