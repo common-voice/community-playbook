@@ -32,7 +32,7 @@ Some community roles exist formally and informally, and they all should follow t
 
 ## Goals
 
-Our community playbook is a living document of our communities history and knowledge. After reading the playbook [chapters]<a href="#playbook-chapters">, you will understand: 
+Our community playbook is a living document of our communities history and knowledge. After reading the playbook [chapters](https://github.com/common-voice/community-playbook/tree/draft#playbook-chapters), you will understand: 
 
 - The goals and ethos of the Common Voice project
 - The journey of langauge onto Common Voice 
