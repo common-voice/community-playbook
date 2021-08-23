@@ -101,19 +101,19 @@ The next three sections explain in detail, what you need to complete each stage.
       <td>🌍</td>
       <td><strong><a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/Localization.md">Localization</a></strong>
       <p>Translating project tools and material to be understood by contributors in their language<br />
-      <a href="#our-purpose-2">Purpose</a> - <a href="#who-we-are-2">Who we are</a> - <a href="#whats-success-2">Success</a> - <a href="#how-to-join-2">How to join</a> - <a href="#what-we-do-2">What we do</a> - <a href="#roles-2">Roles</a> - <a href="#channels-2">Channels</a></p></td>
+      <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/Localization.md/#our-purpose-2">Purpose</a> - <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/Localization.md/#who-we-are-2">Who we are</a> - <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/Localization.md/#whats-success-2">Success</a> - <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/Localization.md/#how-to-join-2">How to join</a> - <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/Localization.md/#what-we-do-2">What we do</a> - <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/Localization.md/#roles-2">Roles</a> - <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/Localization.md/#channels-2">Channels</a></p></td>
     </tr>
     <tr>
       <td>📝</td>
       <td><strong><a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/text.md">Text corpus</a></strong>
       <p>Gathering, validating and processing public domain sentences.<br />
-      <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/text.md/#our-purpose">Purpose</a> - <a href="#who-we-are">Who we are</a> - <a href="#whats-success">Success</a> - <a href="#how-to-join">How to join</a> - <a href="#what-we-do">What we do</a> - <a href="#roles">Roles</a> - <a href="#channels">Channels</a></p></td>
+      <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/text.md/#our-purpose">Purpose</a> - <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/text.md/#who-we-are">Who we are</a> - <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/text.md/#whats-success">Success</a> - <a href="#how-to-join">How to join</a> - <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/text.md/#what-we-do">What we do</a> - <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/text.md/#roles">Roles</a> - <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/text.md/#channels">Channels</a></p></td>
     </tr>
     <tr>
       <td>🗣</td>
-      <td><strong><a href="#-voice-corpus">Voice corpus</a></strong>
+      <td><strong><a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/voice.md">Voice corpus</a></strong>
       <p>Recording and validating voices to create a public domain dataset.<br />
-      <a href="#our-purpose-1">Purpose</a> - <a href="#who-we-are-1">Who we are</a> - <a href="#whats-success-1">Success</a> - <a href="#how-to-join-1">How to join</a> - <a href="#what-we-do-1">What we do</a> - <a href="#roles-1">Roles</a> - <a href="#channels-1">Channels</a></p></td>
+      <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/voice.md/#our-purpose-1">Purpose</a> - <a href="#who-we-are-1">Who we are</a> - <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/voice.md/#whats-success-1">Success</a> - <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/voice.md/#how-to-join-1">How to join</a> - <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/voice.md/#what-we-do-1">What we do</a> - <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/voice.md/#roles-1">Roles</a> - <a href="https://github.com/common-voice/community-playbook/blob/draft/sub_pages/voice.md/#channels-1">Channels</a></p></td>
     </tr>
     <tr>
       <td>🤖</td>
