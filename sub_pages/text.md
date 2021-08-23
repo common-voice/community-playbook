@@ -73,7 +73,7 @@ Contributors also develop, maintain and update the sentence extractor and collec
 
 We build relationships with organisations or individuals who would be happy to donate their text under a Public domain license. 
 
-⚠️ _Important: Due to legal reasons Mozilla you will have to confirm the agreement with the copyright owner. This process is outlined on [cc0waiver_process page](sub_pages/cc0waiver_process.md). 
+⚠️ _Important: Due to legal reasons Mozilla you will have to confirm the agreement with the copyright owner. This process is outlined on [cc0waiver_process page](https://common-voice.github.io/community-playbook/sub_pages/cc0waiver_process.html). 
 
 ### Roles
 
