@@ -1,3 +1,10 @@
+### Menu
+- [Homepage](https://common-voice.github.io/community-playbook/)
+- Chapter 1: [Localization](https://common-voice.github.io/community-playbook/sub_pages/Localization.html)
+- Chapter 2: [Text](https://common-voice.github.io/community-playbook/sub_pages/text.html)
+- Chapter 3: [Voice](https://common-voice.github.io/community-playbook/sub_pages/voice.html)
+
+
 # Community Page
 
 Common Voice has a variety of communities that support the project in different important areas, they are usually grouped by language.
@@ -19,9 +26,6 @@ For Common Voice site issues, please share these on out [github](https://github.
 There are currently 140 langauges contributing either text, voice clips and localisations on Common Voice. 
 
 View the full list on [Common Voice Website](https://commonvoice.mozilla.org/en/languages) 
-
-
-
 
 ## Starting a language Community 
 
