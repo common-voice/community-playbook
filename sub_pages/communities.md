@@ -19,6 +19,8 @@ We encourage you to please read [Mozilla Community Participation Guidelines](htt
 
 The main channels that connect all of the language communication are [Discourse](https://discourse.mozilla.org/c/voice) for topic discussions (e.g announcements, topical discussions) and [matrix](https://chat.mozilla.org/#/room/#common-voice:mozilla.org) for community chats. 
 
+To request a new language category for Common Voice Discourse please message heyhillary on discourse. 
+
 For Common Voice site issues, please share these on out [github](https://github.com/mozilla/common-voice). Some language communities have created their own channels. We maintain the list of languages community channels on the [Common Voice Github](https://github.com/common-voice/common-voice/blob/main/docs/COMMUNITIES.md)
 
 ## Language Communities of Common Voice
