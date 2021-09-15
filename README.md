@@ -1,7 +1,7 @@
 ## 👥 📕 Mozilla Common Voice Community Playbook V1.2
 - Thank you to our authors, reviewers and maintainers of the community playbook without your support this playbook wouldn’t be possible! 
-- Learn more about how we [maintain the playbook](https://common-voice.github.io/community-playbook/sub_pages/maintaince.html) and [the Playbook's License](./LICENSE.md).Content coordination: [Hillary Juma, Common Voice Community Manager](https://discourse.mozilla.org/u/heyhillary/activity)
-- Chapters: [Localization](https://common-voice.github.io/community-playbook/sub_pages/Localization.html), [Text Corpus](https://common-voice.github.io/community-playbook/sub_pages/text.html), [Voice Corpus](https://common-voice.github.io/community-playbook/sub_pages/voice.html) and [Communities](https://common-voice.github.io/community-playbook/sub_pages/communities.html) 
+- Learn more about how we [maintain the playbook](https://common-voice.github.io/community-playbook/sub_pages/maintaince.html) and [the Playbook's License](./LICENSE.md) 
+- Content coordination: [Hillary Juma, Common Voice Community Manager](https://discourse.mozilla.org/u/heyhillary/activity)
 
 
 # Welcome to Common Voice Community  🥳
@@ -9,6 +9,8 @@
 Mozilla Common Voice is an initiative to help teach machines how real people talk.
 
 Everyone can take part in Common Voice! You don't need technical experience, though if you do, that's great too! 
+
+Playbook Chapters: [Localization](https://common-voice.github.io/community-playbook/sub_pages/Localization.html), [Text Corpus](https://common-voice.github.io/community-playbook/sub_pages/text.html), [Voice Corpus](https://common-voice.github.io/community-playbook/sub_pages/voice.html) and [Communities](https://common-voice.github.io/community-playbook/sub_pages/communities.html) 
 
 ### What is Common Voice ?
 
@@ -97,7 +99,7 @@ Common Voice language communities are self-organized, and you don’t need to as
 
 Some community roles exist formally and informally, and they all should follow the [Mozilla leadership shared agreements](https://discourse.mozilla.org/t/what-s-next-for-volunteer-leadership-in-2018-shared-agreements/25091).
 
-The Common Voice Team at Mozilla Foundation, [share weekly updates](https://discourse.mozilla.org/t/common-voice-weekly-update-26th-july/83661) to the community on discourse.
+The Common Voice Team at Mozilla Foundation, [share weekly updates](https://discourse.mozilla.org/t/weekly-update-thread-2021/84411) to the community on discourse.
 
 ## Common Voice Communities 🗺
 Common Voice has a variety of communities that support the project in different important areas, they are usually grouped by language.
