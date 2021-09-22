@@ -41,7 +41,7 @@ Language communities advance a language from not having a presence in [Common Vo
 Our community playbook is a living document of our communities history and knowledge. After reading the playbook chapters, you will understand: 
 
 - The goals and ethos of the Common Voice project
-- The journey of langauge onto Common Voice 
+- The journey of language onto Common Voice 
 - How to set up and maintain a language community as part of Common Voice 
 
 ### TLDR: Too Long Don't Read
@@ -106,7 +106,7 @@ Common Voice has a variety of communities that support the project in different 
 
 ### Language Communities 
 
-👥 A language's journey onto Common Voice is made possible with communities of multidisciplinary teams of committed people. Roles vary from no coding needed to organizing roles. Our [community mobilzation resource](https://common-voice.github.io/community-playbook/sub_pages/mobilization.html) and [Community page](https://common-voice.github.io/community-playbook/sub_pages/communities.html) can connect you to resources and existing language communities that can support you.
+👥 A language's journey onto Common Voice is made possible with communities of multidisciplinary teams of committed people. Roles vary from no coding needed to organizing roles. Our [community mobilization resource](https://common-voice.github.io/community-playbook/sub_pages/mobilization.html) and [Community page](https://common-voice.github.io/community-playbook/sub_pages/communities.html) can connect you to resources and existing language communities that can support you.
 
 ℹ️  Note: Mozilla welcomes small and minority language communities, and we understand some of these goals may seem out of reach. In that case, feel free to share with us how they are different for you, and we will try to help. Connect with the Common Voice Team on [discourse](https://discourse.mozilla.org/c/voice/239) or [github issues](https://github.com/common-voice/common-voice/issues).
 

@@ -1,4 +1,4 @@
-# 🌍 Localisation
+# 🌍 Localization
 
 #### Our purpose
 

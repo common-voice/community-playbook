@@ -5,7 +5,7 @@
 - Chapter 3: [Voice](https://common-voice.github.io/community-playbook/sub_pages/voice.html)
 
 
-# Maintaince page
+# Maintenance page
 
 The Mozilla Common Voice community playbook is coordinated by the community manager and maintained by Common Voice reps. 
 
@@ -27,6 +27,6 @@ E.g. hosting the playbook on gitbooks, search button
 Requests that take less than 30 mins to deliver and are urgent should be reviewed and deployed in a 2-week cycle
 E.g  new case study, a new document 
 
-## How to localise the playbook [TBD]
+## How to localize the playbook [TBD]
 
-We would like to host the playbook on another platform that will enable us to easily localise the playbook.  
+We would like to host the playbook on another platform that will enable us to easily localize the playbook.  

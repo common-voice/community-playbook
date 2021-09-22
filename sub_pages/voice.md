@@ -8,7 +8,7 @@
 
 ### Our purpose
 
-Contribute and validate our voices cips under [public domain](https://voice.mozilla.org/terms) licence to generate a dataset usable by Speech to Text technologies to train models in different languages democratizing voice technology.
+Contribute and validate our voices clips under [public domain](https://voice.mozilla.org/terms) licence to generate a dataset usable by Speech to Text technologies to train models in different languages democratizing voice technology.
 
 ### Who we are
 
@@ -33,7 +33,7 @@ We have developed a site that allows you to [donate your voice](https://commonvo
 
 1. Check if your language is currently available for voice contributions on the [languages page](https://commonvoice.mozilla.org/languages). 
 
-⚠️ If your langauge is not launched you might want to contribute through supporting [localisation](#-localisation-corpus) or [text corpus](#-text-corpus). In order to have a language enabled on our site, you will need at least 5000 validated sentences. 
+⚠️ If your language is not launched you might want to contribute through supporting [localization](#-localization-corpus) or [text corpus](#-text-corpus). In order to have a language enabled on our site, you will need at least 5000 validated sentences. 
 
 2. Learn about how we are using your data by reading our [terms of service](https://commonvoice.mozilla.org/languages) and [privacy notice](https://commonvoice.mozilla.org/languages).
 

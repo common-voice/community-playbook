@@ -6,11 +6,11 @@
 ## Languages of Common Voice <a id="language"></a>
 
 * [Language Communities and Contributors](language/language-communities-+-contributors/README.md)
-  * [Langauge Communities](language/language-communities-+-contributors/langauge-communities.md)
+  * [Language Communities](language/language-communities-+-contributors/language-communities.md)
   * [Open Source Newbie](language/language-communities-+-contributors/open-source-newbie.md)
   * [Open Leadership](language/language-communities-+-contributors/open-leadership.md)
-* [🌍 Localisation](language/localisation/README.md)
-  * [Case studies](language/localisation/case-studies.md)
+* [🌍 Localization](language/localization/README.md)
+  * [Case studies](language/localization/case-studies.md)
 * [📝 Text Corpus](language/text-corpus/README.md)
   * [Case studies](language/text-corpus/case-studies.md)
 * [🗣Voice Corpus](language/voice-corpus/README.md)
@@ -25,13 +25,13 @@
 * [Campaign ideas and resources](support/campaign-ideas-and-resources/README.md)
   * [How to....](support/campaign-ideas-and-resources/how-to.....md)
   * [Previous campaigns and events](support/campaign-ideas-and-resources/previous-campaigns-and-events.md)
-  * [Localisable Resources](support/campaign-ideas-and-resources/accessing-resources.md)
-  * [Intro to Voice Recongition Technology \(tbd\)](support/campaign-ideas-and-resources/intro-to-voice-recongition-technology-tbd.md)
+  * [Localizable Resources](support/campaign-ideas-and-resources/accessing-resources.md)
+  * [Intro to Voice Recognition Technology \(tbd\)](support/campaign-ideas-and-resources/intro-to-voice-recongition-technology-tbd.md)
 * [Community Channels](support/community-channels.md)
 * [Community Blogs](support/community-blogs.md)
 
-## Playbook Maintance <a id="maintance"></a>
+## Playbook Maintenance <a id="maintance"></a>
 
-* [Localising Playbook](maintance/localising-playbook.md)
+* [Localizing Playbook](maintance/localizing-playbook.md)
 * [Become a reviewer](maintance/playbook-maintaince.md)
 
