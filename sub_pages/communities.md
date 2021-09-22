@@ -15,7 +15,7 @@ Common Voice communities are governed by Mozilla's code of conduct and etiquette
 
 We encourage you to please read [Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/) before contributing to this project. For more information on how to report violations of the Community Participation Guidelines, please read our ['How to Report'](https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/) page.
 
-## Commuity Platforms 
+## Community Platforms 
 
 The main channels that connect all of the language communication are [Discourse](https://discourse.mozilla.org/c/voice) for topic discussions (e.g announcements, topical discussions) and [matrix](https://chat.mozilla.org/#/room/#common-voice:mozilla.org) for community chats. 
 
@@ -25,7 +25,7 @@ For Common Voice site issues, please share these on out [github](https://github.
 
 ## Language Communities of Common Voice
 
-There are currently 140 langauges contributing either text, voice clips and localisations on Common Voice. 
+There are currently 140 languages contributing either text, voice clips and localizations on Common Voice. 
 
 View the full list on [Common Voice Website](https://commonvoice.mozilla.org/en/languages) 
 
