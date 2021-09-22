@@ -1,6 +1,6 @@
 ## 👥 📕 Mozilla Common Voice Community Playbook V1.2
 - Thank you to our authors, reviewers and maintainers of the community playbook without your support this playbook wouldn’t be possible! 
-- Learn more about how we [maintain the playbook](https://common-voice.github.io/community-playbook/sub_pages/maintaince.html) and [the Playbook's License](./LICENSE.md) 
+- Learn more about how we [maintain the playbook](https://common-voice.github.io/community-playbook/sub_pages/maintenance.html) and [the Playbook's License](./LICENSE.md) 
 - Content coordination: [Hillary Juma, Common Voice Community Manager](https://discourse.mozilla.org/u/heyhillary/activity)
 
 
