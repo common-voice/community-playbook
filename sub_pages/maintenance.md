@@ -15,6 +15,8 @@ The playbook is a living document, we welcome suggestions that make this playboo
 
 Please use the issue form called [feature request](https://github.com/common-voice/community-playbook/issues/new/choose), which could be valuable to all and other language communities on Common Voice. This could be a case study, change request for links, or a copy suggestion.
 
+*The feature request form was adapted from the [Turing Way Community Playbook](https://zenodo.org/record/3233986#.YVHB5aDTVQI)
+
 ## Maintenance cycle [draft]
 
 **Content and Issue request**: 
