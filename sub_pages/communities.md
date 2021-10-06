@@ -34,3 +34,11 @@ View the full list on [Common Voice Website](https://commonvoice.mozilla.org/en/
 You might be interested in starting a language community supporting the goals of Common Voice. 
 
 We encourage you to check out the [Open Leadership Training series](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/), which includes how to build communities.
+
+### Using the Common Voice Trademark 
+
+“Mozilla” and “Common Voice” are trademarks of the Mozilla Foundation and are subject to Mozilla’s trademark policy. But you can of course use these terms to describe and refer to Common Voice when organizing community activities. The project needs community involvement to grow and succeed!
+
+So you should feel free to spread the word about Common Voice. Just be careful not to use Mozilla trademarks in a way that would give the impression that Mozilla itself is organizing an independent community event or resource. For example, the name of your community website or event should prominently include your own group name. The Esperanto and Dhivehi community sites are great examples. They refer to Common Voice but have their own identity. 
+
+Mozilla is happy to answer any questions you have about using Mozilla trademarks, you can email the team at trademark-permissions@mozilla.com, and cc commvoice@mozilla.com 
