@@ -10,7 +10,7 @@ Mozilla Common Voice is an initiative to help teach machines how real people tal
 
 Everyone can take part in Common Voice! You don't need technical experience, though if you do, that's great too! 
 
-Playbook Chapters: [Localization](https://common-voice.github.io/community-playbook/sub_pages/Localization.html), [Text Corpus](https://common-voice.github.io/community-playbook/sub_pages/text.html), [Voice Corpus](https://common-voice.github.io/community-playbook/sub_pages/voice.html) and [Communities](https://common-voice.github.io/community-playbook/sub_pages/communities.html) 
+Playbook Chapters: [Localization](https://common-voice.github.io/community-playbook/sub_pages/Localization.html), [Text Corpus](https://common-voice.github.io/community-playbook/sub_pages/text.html), [Voice Corpus](https://common-voice.github.io/community-playbook/sub_pages/voice.html), [Mobilization](https://common-voice.github.io/community-playbook/sub_pages/mobilization.html) and [Communities](https://common-voice.github.io/community-playbook/sub_pages/communities.html) 
 
 ### What is Common Voice?
 
