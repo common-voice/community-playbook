@@ -18,14 +18,17 @@ This page links to resources and ideas you can use to help advocate for Common V
 - [Validation Parties slides](https://docs.google.com/presentation/d/1P_rvMLjiC51Y6QAqU0TM9W-EGvzuF6Qu6FwvgLGkI24/edit?usp=sharing)  
 - [Common Voice Event Explainer](https://docs.google.com/presentation/d/1HatIkqvhj--4mYvEGAWHAGQ6yf3O7t6iI3LmF6lFPNc/edit?usp=sharing)
 
-You might be asking, how could I use these resources to support my languages growth on Common Voice?
+## Spread the word !
 
-Here are some ideas, for encouraging people [contribute within your social network and at events](https://community.mozilla.org/en/activities/contributing-to-common-voice/)   
 
-We are currently developing a Contribution Cookbook, to highlight best practices from across the community. 
-This will include advice on:
-- Low-resourced languages
-- Community organizing during Covid-19
-- Reward and recognition
-- Social media ideas
-- Marketing materials
+#### Social Media Campaign Guide 
+
+Inspire people on your favourite social media platforms, to make voice AI better for everyone by explaining how they can contribute to Mozilla Common Voice.  
+
+Feel free to remix, adaote or be inspirted to create your own ideas from [Community Social Media Campaign Guide](https://github.com/common-voice/community-playbook/blob/master/assets/img/CV_Social_Media_Community_Campaign.pdf_) 
+
+#### Hosting events and inspiring your social network 
+
+Learn more avout how you can encourage people to [contribute within your social network and at events](https://community.mozilla.org/en/activities/contributing-to-common-voice/)   
+
+
