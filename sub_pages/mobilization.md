@@ -25,7 +25,7 @@ This page links to resources and ideas you can use to help advocate for Common V
 
 Inspire people on your favorite social media platforms, to make voice AI better for everyone by explaining how they can contribute to Mozilla Common Voice.
 
-Feel free to remix, adapt or be inspired to create your own ideas from the [Community Social Media Campaign Guide](https://github.com/common-voice/community-playbook/blob/master/assets/img/CV_Social_Media_Community_Campaign.pdf
+Feel free to remix, adapt or be inspired to create your own ideas from the [Community Social Media Campaign Guide](https://github.com/common-voice/community-playbook/blob/master/assets/img/CV_Social_Media_Community_Campaign.pdf)
 
 ### Hosting events and inspiring your social network
 
