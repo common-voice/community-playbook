@@ -55,7 +55,8 @@ To help you quickly navigate the playbook, this list provides you with possible 
 - [Learn more about recording and validating voices on Common voice](https://common-voice.github.io/community-playbook/sub_pages/voice.html) 
 - [Build a language community and access engagement materials](https://common-voice.github.io/community-playbook/sub_pages/mobilization.html)
 - [Connect with language communities across Common Voice](https://common-voice.github.io/community-playbook/sub_pages/communities.html)
-- [Localize the playbook for my language community](https://common-voice.github.io/community-playbook/sub_pages/maintaince.html) 
+- [Localize the playbook for my language community](https://common-voice.github.io/community-playbook/sub_pages/maintaince.html)
+- [What does Public Domain or CC0 mean ?](https://github.com/common-voice/community-playbook/blob/654a40c0667876bca49df92e00a0bb1908c24756/sub_pages/Publicdomain(1).pdf) 
 
 ## Playbook Chapters
 
