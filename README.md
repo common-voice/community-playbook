@@ -3,14 +3,21 @@
 - Learn more about how we [maintain the playbook](https://common-voice.github.io/community-playbook/sub_pages/maintenance.html) and [the Playbook's License](./LICENSE.md) 
 - Content coordination: [Hillary Juma, Common Voice Community Manager](https://discourse.mozilla.org/u/heyhillary/activity)
 
-
 # Welcome to Common Voice Community  🥳
 
-Mozilla Common Voice is an initiative to help teach machines how real people talk.
+Mozilla Common Voice is an initiative to help teach machines how real people talk. Everyone can take part in Common Voice! You don't need technical experience, though if you do, that's great too! 
 
-Everyone can take part in Common Voice! You don't need technical experience, though if you do, that's great too! 
+## Playbook Pages
 
-Playbook Chapters: [Localization](https://common-voice.github.io/community-playbook/sub_pages/Localization.html), [Text Corpus](https://common-voice.github.io/community-playbook/sub_pages/text.html), [Voice Corpus](https://common-voice.github.io/community-playbook/sub_pages/voice.html), [Mobilization](https://common-voice.github.io/community-playbook/sub_pages/mobilization.html) and [Communities](https://common-voice.github.io/community-playbook/sub_pages/communities.html) 
+
+| Pages              | About                                                                                     |
+|--------------------|-------------------------------------------------------------------------------------------|
+| [Localization](https://common-voice.github.io/community-playbook/sub_pages/Localization.html)        | Translating project tools and material to be understood by contributors in their language |
+| [Text Corpus](https://common-voice.github.io/community-playbook/sub_pages/text.html)       | Gathering, validating and processing public domain sentences                              |
+| [Voice Corpus](https://common-voice.github.io/community-playbook/sub_pages/voice.html)       | Recording and validating voice clips to create a public domain dataset                    |
+| [Communities](https://common-voice.github.io/community-playbook/sub_pages/communities.html)         | Connect with the variety of communities participating in Common Voice                     |
+| [Mobilization](https://common-voice.github.io/community-playbook/sub_pages/mobilization.html)       | Resources and tips for mobilizing your community                                          |
+| [CC0 Waiver Process](https://common-voice.github.io/community-playbook/sub_pages/cc0waiver_process.html) | How to secure a cc0 license for text corpus                                               |
 
 ### What is Common Voice?
 
@@ -42,7 +49,16 @@ Our community playbook is a living document of our communities history and knowl
 
 - The goals and ethos of the Common Voice project
 - The journey of language onto Common Voice 
-- How to set up and maintain a language community as part of Common Voice 
+- How to set up and maintain a language community as part of Common Voice
+
+*As you read the playbook....*
+
+🔨 Make sure you check the _required skills_ for each section and look for people who can fit.
+
+💬 Check the channels section to learn how to set up your local forums and chat to communicate with other people in your language.
+
+Each chapter covers; Purpose - Who we are - Success - How to join - What we do - Roles - Channels
+
 
 ### TLDR: Too Long Don't Read
 
@@ -58,30 +74,6 @@ To help you quickly navigate the playbook, this list provides you with possible 
 - [Localize the playbook for my language community](https://common-voice.github.io/community-playbook/sub_pages/maintaince.html)
 - [What does Public Domain or CC0 mean ?](https://github.com/common-voice/community-playbook/blob/654a40c0667876bca49df92e00a0bb1908c24756/sub_pages/Publicdomain(1).pdf) 
 
-## Playbook Chapters
-
-### Chapter 1: [Localization](https://common-voice.github.io/community-playbook/sub_pages/Localization.html) 
-Translating project tools and material to be understood by contributors in their language
-
-### Chapter 2: [Text Corpus](https://common-voice.github.io/community-playbook/sub_pages/text.html) 
-
-Gathering, validating and processing public domain sentences
-
-### Chapter 3: [Voice Corpus](https://common-voice.github.io/community-playbook/sub_pages/voice.html) 
-
-Recording and validating voice clips to create a public domain dataset
-
-### Chapter 4: Our Voices (in development)
-
-Individuals, Researchers and organizations using Common Voice Datasets to train and optimize SST models in specific languages using machine learning.
-
-*As you read the playbook....*
-
-🔨 Make sure you check the _required skills_ for each section and look for people who can fit.
-
-💬 Check the channels section to learn how to set up your local forums and chat to communicate with other people in your language.
-
-Each chapter covers; Purpose - Who we are - Success - How to join - What we do - Roles - Channels
 
 ----
 # Common Voice Ecosystem
