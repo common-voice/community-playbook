@@ -1,14 +1,11 @@
 ## Playbook Pages
 
-
-| Pages              | About                                                                                     |
-|--------------------|-------------------------------------------------------------------------------------------|
-| [Localization](https://common-voice.github.io/community-playbook/sub_pages/Localization.html)        | Translating project tools and material to be understood by contributors in their language |
-| [Text Corpus](https://common-voice.github.io/community-playbook/sub_pages/text.html)       | Gathering, validating and processing public domain sentences                              |
-| [Voice Corpus](https://common-voice.github.io/community-playbook/sub_pages/voice.html)       | Recording and validating voice clips to create a public domain dataset                    |
-| [Communities](https://common-voice.github.io/community-playbook/sub_pages/communities.html)         | Connect with the variety of communities participating in Common Voice                     |
-| [Mobilization](https://common-voice.github.io/community-playbook/sub_pages/mobilization.html)       | Resources and tips for mobilizing your community                                          |
-| [CC0 Waiver Process](https://common-voice.github.io/community-playbook/sub_pages/cc0waiver_process.html) | How to secure a cc0 license for text corpus                                               |
+- [Localization](https://common-voice.github.io/community-playbook/sub_pages/Localization.html): Translating project tools and material to be understood by contributors in their language 
+- [Text Corpus](https://common-voice.github.io/community-playbook/sub_pages/text.html): Gathering, validating and processing public domain sentences               
+- [Voice Corpus](https://common-voice.github.io/community-playbook/sub_pages/voice.html): Recording and validating voice clips to create a public domain dataset  
+- [Communities](https://common-voice.github.io/community-playbook/sub_pages/communities.html): Connect with the variety of communities participating in Common Voice
+- [Mobilization](https://common-voice.github.io/community-playbook/sub_pages/mobilization.html): Resources and tips for mobilizing your community                 
+- [CC0 Waiver Process](https://common-voice.github.io/community-playbook/sub_pages/cc0waiver_process.html): How to secure a cc0 license for text corpus   
 
 
 # 🗣 Voice corpus
