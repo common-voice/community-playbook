@@ -5,7 +5,12 @@
 - [Voice Corpus](https://common-voice.github.io/community-playbook/sub_pages/voice.html): Recording and validating voice clips to create a public domain dataset  
 - [Communities](https://common-voice.github.io/community-playbook/sub_pages/communities.html): Connect with the variety of communities participating in Common Voice
 - [Mobilization](https://common-voice.github.io/community-playbook/sub_pages/mobilization.html): Resources and tips for mobilizing your community                 
-- [CC0 Waiver Process](https://common-voice.github.io/community-playbook/sub_pages/cc0waiver_process.html): How to secure a cc0 license for text corpus               
+- [CC0 Waiver Process](https://common-voice.github.io/community-playbook/sub_pages/cc0waiver_process.html): How to secure a cc0 license for text corpus             
+
+
+## What is CC0 [CC0 “No Rights Reserved” License]
+
+Check out this simple explainer by Creative Commons - [PDF Download](https://raw.githubusercontent.com/common-voice/community-playbook/master/sub_pages/Publicdomain(1).pdf) - [Text TBA]
 
 # How to use: "Common Voice Contribution Agreement Form"
 
