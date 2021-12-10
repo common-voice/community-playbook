@@ -65,6 +65,7 @@ If you know of a public domain corpus of sentences with more than 100k sentences
 - The sentences should be spelled correctly.
 - The sentences should be grammatically correct.
 - The sentences should be speakable (also avoiding non-native uncommon words)
+- Please share your reviewed sentences in txt. format
 
 We're looking for less than 5% of error rate on the random sample. You can use [this tool](https://www.surveymonkey.com/mp/sample-size-calculator/) with a confidence level of 99% and a margin of error of 2% to determine the sample size you need to review.
 
