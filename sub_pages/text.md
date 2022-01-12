@@ -79,6 +79,10 @@ If you notice sentences that need to be deleted, first check what the source of 
 
 If the sentence is from a different source, you can file a pull request that modifies the text file directly. If possible, also attach a separate plaintext file that has all of the problem sentences, with one sentence per line.
 
+### Automatic Translation 
+
+Some language communities have used automatic translation of high-resource languages corpus' licensed under cc0 and adapted materials for cultural context in the language. After translating the texts, they have reviewed the sentences through the sentence collector. The Common Voice Team doesn't have a formal position on automatic translation for sentence collection. 
+
 #### **Tooling development**
 
 Contributors also develop, maintain and update the sentence extractor and collector code.
