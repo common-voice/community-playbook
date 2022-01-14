@@ -2,7 +2,7 @@
 
 ## Background
 
-We want to support communities in deciding what variants are required for their languages and how best to organise and structure their language within the Common Voice platform. This guidance will be in the form of a set of questions and descriptions.
+We want to support communities in deciding what [variants](https://foundation.mozilla.org/en/blog/how-we-are-making-common-voice-even-more-linguistically-inclusive/) are required for their languages and how best to organise and structure their language within the Common Voice platform. This guidance will be in the form of a set of questions and descriptions.
 
 A general guide is that the more people who are included in a single dataset, the better the dataset will be. We want machines to be able to understand how young and old people speak, how people with different gender identities speak and how mother-tongue speakers and learners speak. The more voices we include, the more inclusive we are, the better and more reliable systems trained on the data will be.
 
