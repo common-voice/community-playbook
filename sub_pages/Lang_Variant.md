@@ -32,7 +32,7 @@ There are two main sets of language codes currently widely used, one set uses tw
 In many cases languages that had one two letter code have several three letter codes, for example ku “Kurdish” has three letter variants kmr “Northern Kurdish” and ckb “Central Kurdish”. If the language has a separate three letter code then it is likely to constitute a separate language for the purposes of Common Voice. Although this choice is up to the language community, for example Western Armenian has a separate three-letter code hyw, but the Armenian community has chosen to stay together in a single language under the hy code.
 
 You can check the list of language codes at the following Wikipedia link:
-https://en.wikipedia.org/wiki/List_of_ISO_639-3_codes
+[https://en.wikipedia.org/wiki/List_of_ISO_639-3_codes](https://en.wikipedia.org/wiki/List_of_ISO_639-3_codes)
 
 ### What if some  countries, communities and regions have very different vocabulary?
 
@@ -82,12 +82,12 @@ In principle any redundant information should be left out, for example for Engli
 ### List of useful resources
 
 Wikipedia pages (in English):
-- Language codes (ISO-639-3): https://en.wikipedia.org/wiki/ISO_639-3 
-- Variant codes (BCP-47): https://en.wikipedia.org/wiki/IETF_language_tag
-- Script codes (ISO-15924): https://en.wikipedia.org/wiki/ISO_15924
-- Country and region codes (ISO 3166): https://en.wikipedia.org/wiki/ISO_3166-1
+- Language codes (ISO-639-3): [https://en.wikipedia.org/wiki/ISO_639-3](https://en.wikipedia.org/wiki/ISO_639-3) 
+- Variant codes (BCP-47): [https://en.wikipedia.org/wiki/IETF_language_tag](https://en.wikipedia.org/wiki/IETF_language_tag)
+- Script codes (ISO-15924): [https://en.wikipedia.org/wiki/ISO_15924](https://en.wikipedia.org/wiki/ISO_15924)
+- Country and region codes (ISO 3166): [https://en.wikipedia.org/wiki/ISO_3166-1](https://en.wikipedia.org/wiki/ISO_3166-1)
 
 Other pages:
-- Look up language codes: https://iso639-3.sil.org/code_tables/639/data/all
-- BCP-47 specification details: https://tools.ietf.org/search/bcp47 
+- Look up language codes: [https://iso639-3.sil.org/code_tables/639/data/all](https://iso639-3.sil.org/code_tables/639/data/all)
+- BCP-47 specification details: [https://tools.ietf.org/search/bcp47](https://tools.ietf.org/search/bcp47) 
 
