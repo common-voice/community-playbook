@@ -36,21 +36,21 @@ You can check the list of language codes at the following Wikipedia link:
 
 ### What if some  countries, communities and regions have very different vocabulary?
 
-In many cases languages as spoken in different places have different words for the same thing, for example in English what is called a lorry [eng-GB] in England might be called a truck [eng-US] in the United States. Similarly, in Mexico, the word for computer is computadora [spa-MX], while in Spain it is ordenador [spa-ES]. 
+In many cases languages as spoken in different places have different words for the same thing, for example in English what is called a *lorry* [eng-GB] in England might be called a *truck* [eng-US] in the United States. Similarly, in Mexico, the word for computer is *computadora* [spa-MX], while in Spain it is *ordenador* [spa-ES]. 
 
-It might also be that there are differences within a country, such as between regions or between urban and rural areas. For example, Catalan spoken in the Valencian area has different words and different endings on verbs, such as eixir “to go out” [cat-valencia] versus sortir “to go out” [cat].
+It might also be that there are differences within a country, such as between regions or between urban and rural areas. For example, Catalan spoken in the Valencian area has different words and different endings on verbs, such as *eixir* “to go out” [cat-valencia] versus *sortir* “to go out” [cat].
 
 When people have exposure to many different varieties they are often familiar with the differences, but will only use the one that applies to their own. If there are large and well defined differences then it can be worth representing with different variants in Common Voice. 
 
 ### Are words in the language pronounced differently in different countries or regions?
 
-If the language is mostly written the same way, but words are pronounced differently in different countries or regions or communities then you may want to represent this using accents. This includes if there are regular differences in writing. For example, spelling differences between US and non-US English, the word colour [eng] may be spelt color, but the difference in spelling doesn’t change how the word is pronounced. 
+If the language is mostly written the same way, but words are pronounced differently in different countries or regions or communities then you may want to represent this using accents. This includes if there are regular differences in writing. For example, spelling differences between US and non-US English, the word *colour* [eng] may be spelt *color*, but the difference in spelling doesn’t change how the word is pronounced. 
 
-Sometimes there may be a lot of major differences in spelling and pronunciation, such as dreamt [eng] in the United Kingdom versus dreamed in the United States, or huit [cat] “eight” in the west of the Catalan-speaking area versus vuit [cat] “eight” in the east. This may call for a different variant.
+Sometimes there may be a lot of major differences in spelling and pronunciation, such as *dreamt* [eng] in the United Kingdom versus *dreamed* in the United States, or *huit* [cat] “eight” in the west of the Catalan-speaking area versus *vuit* [cat] “eight” in the east. This may call for a different variant.
 
 ### Do some speakers use a different writing system to write the language?
 
-Some languages are written with different writing systems depending on where they are spoken. For example Serbian can be written in Cyrillic, река “river” [srp-Cyrl] and Latin reka “river” [srp-Latn]. Other examples would be Konkani (Latin and Devanagari), Punjabi (Perso-Arabic and Devanagari) or Crimean Tatar (Latin and Cyrillic). For the moment these can be best treated as variants, but multiple orthographies for the same language or variant will be possible later in 2022.
+Some languages are written with different writing systems depending on where they are spoken. For example Serbian can be written in Cyrillic, *река* “river” [srp-Cyrl] and Latin *reka* “river” [srp-Latn]. Other examples would be Konkani (Latin and Devanagari), Punjabi (Perso-Arabic and Devanagari) or Crimean Tatar (Latin and Cyrillic). For the moment these can be best treated as variants, but multiple orthographies for the same language or variant will be possible later in 2022.
 
 When people use the same vocabulary and grammar but pronounce words differently then we call this an accent, a speaker may have more than one accent in a language. 
 
@@ -58,24 +58,24 @@ Accent is not a variation from a standard (all speakers have an accent), but rat
 
 ### Do some countries, regions or groups write words very differently?
 
-In some places the same writing system is used, but words are written very differently but there are differences in how words are written (or spelt). For example Basaa is a language of Cameroon, it can be written in multiple ways, one way is older and another way is newer. For example the word “father” would be ǹsaŋ in the new orthography [bas-academy] but nsañ in the older one [bas-mission] but not everyone wants to use the new system or is familiar with it. In this case, the two different ways of writing could be considered variants. 
+In some places the same writing system is used, but words are written very differently but there are differences in how words are written (or spelt). For example Basaa is a language of Cameroon, it can be written in multiple ways, one way is older and another way is newer. For example the word “father” would be *ǹsaŋ* in the new orthography [bas-academy] but *nsañ* in the older one [bas-mission] but not everyone wants to use the new system or is familiar with it. In this case, the two different ways of writing could be considered variants. 
 
 ## How to use BCP-47 codes for your variant
 
 BCP codes are a way of representing variation in languages and of being able to refer to specific variants, either written or spoken. The codes are important so that we have a way of distinguishing between different variants of the same language. A BCP code as used by Common Voice is made up of a maximum of four parts:
 
-1. a language tag: This should be a two letter or three letter tag from ISO-639, for example ig for igbo or vot for Votic. These should be in lowercase.
-2. an optional script tag: This should consist of four letters, be written in title case and chosen from ISO-15924. For example: Latn (Latin), Cyrl (Cyrillic), Deva (Devanagari), Beng (Bengali), Arab (Arabic).
-3. an optional region tag: This should consist of two letters in capitals from XXX
-4. an optional variant tag: These should be five to eight letters long, written in lowercase and are free to be made up by the community. For example: valencia (Catalan spoken in Valencia) or aranese and gascon for the Aranese and Gascon variants of Occitan respectively.
+1. a language tag: This should be a two letter or three letter tag from ISO-639, for example `ig` for igbo or `vot` for Votic. These should be in lowercase.
+2. an optional script tag: This should consist of four letters, be written in title case and chosen from ISO-15924. For example: `Latn` (Latin), `Cyrl` (Cyrillic), `Deva` (Devanagari), `Beng` (Bengali), `Arab` (Arabic).
+3. an optional region tag: This should consist of two letters in capitals from ISO 3166-2
+4. an optional variant tag: These should be five to eight letters long, written in lowercase and are free to be made up by the community. For example: `valencia` (Catalan spoken in Valencia) or `aranese` and `gascon` for the Aranese and Gascon variants of Occitan respectively.
 
 Some examples:
 
-- es-MX: Spanish, as spoken in Mexico in Latin script. The script tag is left out as Spanish is only written in Latin script and no variants are specified.
-- ca-valencia: The Valencian variant of Catalan. The script tag and country tag because Valencian is only written in Latin script in Spain.
-- sr-Latn-ijekavsk: Serbian written in Latin script, spoken in Serbia and with the ijekavian variant (e.g. writing and pronouncing rijeka “river” instead of reka). This variant is spoken both in Serbia and Bosnia-Herzegovina but with few differences so the region tag is left out.
-- rm-vallader: The Vallader variant of Romansch. Romansch is only spoken in Switzerland and only written in Latin script so the region and script codes are left out.
-- pa-Guru: Punjabi written in Gurmukhi script. This variant is mostly used in India,  
+- `es-MX`: Spanish, as spoken in Mexico in Latin script. The script tag is left out as Spanish is only written in Latin script and no variants are specified.
+- `ca-valencia`: The Valencian variant of Catalan. The script tag and country tag because Valencian is only written in Latin script in Spain.
+- `sr-Latn-ijekavsk`: Serbian written in Latin script, spoken in Serbia and with the ijekavian variant (e.g. writing and pronouncing *rijeka* “river” instead of *reka*). This variant is spoken both in Serbia and Bosnia-Herzegovina but with few differences so the region tag is left out.
+- `rm-vallader`: The Vallader variant of Romansch. Romansch is only spoken in Switzerland and only written in Latin script so the region and script codes are left out.
+- `pa-Guru`: Punjabi written in Gurmukhi script. This variant is mostly used in India,  
 
 In principle any redundant information should be left out, for example for English it is not necessary to add the Latn script tag, as English is only written in Latin script. For Valencian it is not necessary to add the ES region code as it is only spoken inside Spain. Note however that for some diaspora communities these may be relevant.
 
