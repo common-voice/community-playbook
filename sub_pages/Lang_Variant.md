@@ -88,4 +88,5 @@ Wikipedia pages (in English):
 Other pages:
 - Look up language codes: [https://iso639-3.sil.org/code_tables/639/data/all](https://iso639-3.sil.org/code_tables/639/data/all)
 - BCP-47 specification details: [https://tools.ietf.org/search/bcp47](https://tools.ietf.org/search/bcp47) 
+- BCP47 language subtag lookup app by r21a@w3: [https://r12a.github.io/app-subtags/](https://r12a.github.io/app-subtags/)
 
