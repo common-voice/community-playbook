@@ -34,6 +34,8 @@ Anyone can join this community. Join our [discourse forums](https://discourse.mo
 
 ### What we do
 
+For a visual demonstration of what we do, watch Michael's ["Collecting Sentences for Common Voice"](https://fosdem.org/2022/schedule/event/mozilla_sentence_collector/) talk at FOSDEM 2022.
+
 #### **Sentence extraction**
 
 We have developed [a tool to extract sentences](https://github.com/Common-Voice/cv-sentence-extractor) from large sources of public domain text, with a focus easy-to-read corpus and Wikipedia.

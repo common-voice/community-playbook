@@ -63,6 +63,8 @@ You can help the community by organizing activities and encouraging others to do
 
 ⭐️ _You can re-use any [graphical material](https://drive.google.com/drive/u/0/folders/1RfgsCI6-rs1crh7OhlxryXO5-zN8JRErhttps://drive.google.com/drive/u/0/folders/1RfgsCI6-rs1crh7OhlxryXO5-zN8JRErhttps://drive.google.com/drive/u/0/folders/1RfgsCI6-rs1crh7OhlxryXO5-zN8JREr) we have produced to support the project._
 
+🎬 For a deep-dive on adding a new language to Common Voice and what to look out for when managing a voice community, watch Bülent's ["How to start a language on Common Voice?"](https://fosdem.org/2022/schedule/event/mozilla_language_common_voice/) talk at FOSDEM 2022.
+
 #### **Community support**
 
 Help other contributors in [our discourse](https://discourse.mozilla.org/c/voice/239) and [matrix](https://chat.mozilla.org/#/room/#common-voice:mozilla.org) channels. Answering their questions about how to use the site or helping document reported issues [on github](https://github.com/mozilla/voice-web/issues).
