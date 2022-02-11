@@ -9,7 +9,7 @@
 
 # Community Page
 
-Common Voice has a variety of communities that support the project in different important areas, they are usually grouped by language.
+Common Voice has a variety of communities that support the project in different important areas, they are usually grouped by language. To get you started please check out our [onboarding slides](https://docs.google.com/presentation/d/1FVTWmWYZCfmjkfASm3EVImMrY-Hu__C3z8XZ8f4VyNk/edit?usp=sharing)
 
 ## Participation Guidelines
 
@@ -17,25 +17,22 @@ Common Voice communities are governed by Mozilla's code of conduct and etiquette
 
 We encourage you to please read [Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/) before contributing to this project. For more information on how to report violations of the Community Participation Guidelines, please read our ['How to Report'](https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/) page.
 
-## Community Platforms 
-
-The main channels that connect all of the language communication are [Discourse](https://discourse.mozilla.org/c/voice) for topic discussions (e.g announcements, topical discussions) and [matrix](https://chat.mozilla.org/#/room/#common-voice:mozilla.org) for community chats. 
-
-To request a new language category for Common Voice Discourse please message heyhillary on discourse. 
-
-For Common Voice site issues, please share these on out [github](https://github.com/mozilla/common-voice). Some language communities have created their own channels. We maintain the list of languages community channels on the [Common Voice Github](https://github.com/common-voice/common-voice/blob/main/docs/COMMUNITIES.md)
-
 ## Language Communities of Common Voice
 
-There are currently 140 languages contributing either text, voice clips and localizations on Common Voice. 
+There are currently 140 [languages](https://commonvoice.mozilla.org/languages) contributing either text, voice clips and localizations on Common Voice. Some langauges have formal communities that support and collabrate with each other. 
 
-View the full list on [Common Voice Website](https://commonvoice.mozilla.org/en/languages) 
+#### Why build a local community ?
 
-## Starting a language Community 
+Open source projects thrive with communities that nurture people, who create collaboratively and hold each other accountable towards a common goal. 
 
-You might be interested in starting a language community supporting the goals of Common Voice. 
+Starting and growing a language on Common Voice requires collaborating with a diversity of people, who are inspired by a common goal. Community building helps to; build a foundational understanding of how people want to contribute to your language, it can provide space to share or produce knowledge and skills, discuss and organise towards goals. 
 
-We encourage you to check out the [Open Leadership Training series](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/), which includes how to build communities.
+Check out our [community building template](https://docs.google.com/document/d/15Kyf3g47HjUCJ55c3aLpvxf96R2cUti2mcRyiyXej90/edit?usp=sharing) on our communal drive.  
+## Community Platforms 
+
+The main channels that connect all of the language communication are [Discourse](https://discourse.mozilla.org/c/voice) for topic discussions (e.g announcements, topical discussions) and [matrix](https://chat.mozilla.org/#/room/#common-voice:mozilla.org) for community chats. To request a new language category for Common Voice Discourse please message heyhillary on discourse. 
+
+For Common Voice site issues, please share these on out [github](https://github.com/mozilla/common-voice). Some language communities have created their own channels. We maintain the list of languages community channels on the [Common Voice Github](https://github.com/common-voice/common-voice/blob/main/docs/COMMUNITIES.md)
 
 ### Using the Common Voice Trademark 
 
