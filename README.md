@@ -1,41 +1,24 @@
 # Welcome to Common Voice Community  🥳
 
-Mozilla Common Voice is an initiative to help teach machines how real people talk. Everyone can take part in Common Voice! You don't need technical experience, though if you do, that's great too! 
+Common Voice is a publicly available voice dataset, powered by the voices of volunteer contributors around the world. People who want to build voice applications can use the dataset to train machine learning models.
+
+Learn more our project on the [onboarding page](https://common-voice.github.io/community-playbook/sub_pages/onboarding.html) and check out Common Voice Platform [demo mode](https://commonvoice.mozilla.org/demo).
+
+---
 
 ## Playbook Pages
 
-
 | Pages              | About                                                                                     |
 |--------------------|-------------------------------------------------------------------------------------------|
+| [Onboarding](https://common-voice.github.io/community-playbook/sub_pages/onboarding.html)        | Are you new to the Common Voice Project ? Read this page ! |
 | [Localization](https://common-voice.github.io/community-playbook/sub_pages/Localization.html)        | Translating project tools and material to be understood by contributors in their language |
 | [Text Corpus](https://common-voice.github.io/community-playbook/sub_pages/text.html)       | Gathering, validating and processing public domain sentences                              |
 | [Voice Corpus](https://common-voice.github.io/community-playbook/sub_pages/voice.html)       | Recording and validating voice clips to create a public domain dataset                    |
 | [Communities](https://common-voice.github.io/community-playbook/sub_pages/communities.html)         | Connect with the variety of communities participating in Common Voice                     |
 | [Mobilization](https://common-voice.github.io/community-playbook/sub_pages/mobilization.html)       | Resources and tips for mobilizing your community                                          |
 | [CC0 Waiver Process](https://common-voice.github.io/community-playbook/sub_pages/cc0waiver_process.html) | How to secure a cc0 license for text corpus                                               |
-| [Choosing Variants for Languages](https://common-voice.github.io/community-playbook/sub_pages/Lang_Variant.html) | Community guidance on selecting variants for your language.                                               |
+| [Variants for Languages](https://common-voice.github.io/community-playbook/sub_pages/Lang_Variant.html) | Community guidance on selecting variants for your language.                                               |
 
-### What is Common Voice?
-
-Voice is natural, voice is human. That’s why we’re excited about creating usable voice technology for our machines. But to create voice systems, developers need an extremely large amount of voice data.
-
-Most of the data used by large companies isn’t available to the majority of people. We think that stifles innovation. So we’ve launched Common Voice, a project to help make voice recognition open and accessible to everyone. 
-
-Language communities advance a language from not having a presence in [Common Voice](https://commonvoice.mozilla.org/) at all to being able to generate a functional Speech to text (STT) model which is able to understand how people speak. Once the Common Voice website is localized by a language community, the process involves the 5 following steps.
-
-![Voice journey quantities](/assets/img/voice-journey.png)
- 
-1. Collecting and validating public domain sentences 
-
-2. Recording and validating the recordings of the sentences 
-
-3. Repeating this process to grow the size of the data 
-
-4. Generating a dataset 
-
-5. and using machine learning to train speech-to-text models using this dataset 
-
----
 
 # Navigating the playbook 
 
