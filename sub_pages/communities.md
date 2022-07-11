@@ -13,11 +13,9 @@ Common Voice contributors are expected to uphold you to abide by [Mozilla Commun
 
 ## Programmes and Resources
 
-[Common Voice Languages](https://foundation.mozilla.org/en/blog/common-voice-language-reps-council-gives-more-voice-to-language-communities/) Reps Create an explicit avenue for representatives of language communities to advocate for their language community’s needs with the Common Voice Product Team
-
-[Community Workshops](https://discourse.mozilla.org/t/community-workshop-series/96420) are virtual calls that provides practical tips and resources you can us to run events and access funding.
-
-[Community Assets Drive](https://bit.ly/3AGIjyA) hosts material you can use and remake from graphics to postcards.
+* [Common Voice Languages](https://foundation.mozilla.org/en/blog/common-voice-language-reps-council-gives-more-voice-to-language-communities/) Reps Create an explicit avenue for representatives of language communities to advocate for their language community’s needs with the Common Voice Product Team
+* [Community Workshops](https://discourse.mozilla.org/t/community-workshop-series/96420) are virtual calls that provides practical tips and resources you can us to run events and access funding.
+* [Community Assets Drive](https://bit.ly/3AGIjyA) hosts material you can use and remake from graphics to postcards.
 
 
 ####  Using the Common Voice Trademark 
