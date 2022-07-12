@@ -8,6 +8,8 @@ include:
   - LICENSE.md
   - sub_pages/mobilization.md
   - sub_pages/communities.md
+  - sub_pages/text.md
+  - sub_pages/voice.md
 
 theme: jekyll-theme-minimal
 title:  Community Playbook 
