@@ -38,7 +38,7 @@ Speech recognition doesn’t work equally for all demographics.
 * Take part in the [Langauge Variant selection process](https://docs.google.com/presentation/d/18rafFef5uliLng9VylhHwHAr4m4nTA1fe2L7rL1S6CQ/edit?usp=sharing) 
 * Learn how Kiswahili Community is approaching [Gender in the community mobilisations](https://assets.mofoprod.net/network/documents/Gender_Action_Plan.pdf)  
 * Register your interest in being part of the [Gender Action Group](https://mozillafoundation.typeform.com/to/yluCogH1) 
-🎬  [Watch the Break the Bias Workshop] (https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=87d8a5f2-0641-4da2-aa59-aea600f1d1bc) to learn more
+🎬  [Watch the Break the Bias Workshop](https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=87d8a5f2-0641-4da2-aa59-aea600f1d1bc) to learn more
 
 
 ---
