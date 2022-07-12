@@ -20,9 +20,11 @@ Currently, Common Voice requires voice donations to be tied to sentences, by sou
 It’s also important to ensure sentences are readable to speakers across all backgrounds. 
 
 ### Sentence Diversity 
-Phoneome, variant and domain diversity are crucial in ensuring that the dataset can understand the vastness of language. All sentences in the dataset can be viewed on the [Common Voice Github](https://github.com/common-voice/common-voice/tree/main/server/data). If you notice a gap regarding sources or types of content, we encourage you to add more sentences to help diversify the text corpus
+Phoneome, variant and domain diversity are crucial in ensuring that the dataset can understand the vastness of language; for example, some languages have Gramaitical Gender e.g Abogado and Abogada mean Male Lawyer and Female Lawyer respectively Spanish.
 
-For example, some languages have Gramaitical Gender e.g Abogado and Abogada mean Male Lawyer and Female Lawyer respectively Spanish. 
+All sentences in the dataset can be viewed on the [Common Voice Github](https://github.com/common-voice/common-voice/tree/main/server/data). If you notice a gap regarding sources or types of content, we encourage you to add more sentences to help diversify the text corpus.
+
+
 ⚠️ _ As part of the [Common Voice 2022 Product Roadmap](https://docs.google.com/spreadsheets/d/137YOs41kbzXyai6_Kn_lu08EHAziPt4ioPUkuSFSSTc/edit?usp=sharing) we are scoping and delivering a domain-specific text corpus on the platform 
 
 ### Community Participation Guidelines (CPG)
