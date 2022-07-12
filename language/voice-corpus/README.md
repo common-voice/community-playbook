@@ -1,94 +1,53 @@
-# 🗣Voice Corpus
+# 🗣 Voice data collection 
+People across the world contribute voices clips under [public domain](https://voice.mozilla.org/terms) licence to generate a dataset usable by Voice technologies to train models in different languages democratizing voice technology.
 
-### Our purpose
+## How is my data being used?
 
-Donate and validate our voices under [public domain](https://voice.mozilla.org/terms) licence to generate a dataset usable by Speech to Text technologies to train models in different languages democratizing voice technology.
+Common Voice Dataset has been used to make [Welsh Voice assistants](https://aclanthology.org/2020.sltu-1.27.pdf), [Divehi Text to Speech tools](https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f232694f-4dc8-4ac6-a4d8-adcc00fa1e46&start=0.955437) to [Kinyarwanda Covid-19 Support Chatbots](https://foundation.mozilla.org/en/blog/in-rwanda-voice-technology-innovation-helps-fight-covid/).
 
-#### Who we are
+🎬 You can learn how Alessio made a [Offline voice message transcription](https://www.youtube.com/watch?v=5d0-nT6IdNw) 
 
-We are a community of voice tech enthusiasts, who want to help collect and generate a large dataset of public domain voices that can be freely used to train [Speech to Text technologies](https://github.com/mozilla/DeepSpeech).
+For data collected throughout the Common Voice platform please read our [terms of service](https://commonvoice.mozilla.org/languages) and [privacy notice](https://commonvoice.mozilla.org/languages).
 
-#### What’s success
+### How much data do you need to make any voice tech tool?
 
-Collect and validate as many voices as possible in our languages. Having more voices validated allows us to then train more advanced STT models.
+Techniques such as transfer learning can help leverage existing datasets to help build speech recognition models for languages that lack representation.
+
+For example, 77 Hours of Welsh Common Voice data, “transfer learning and a domain-specific language model, acceptable speech recognition” learn more on [Dewi’s paper ](https://aclanthology.org/2020.sltu-1.27.pdf) 
+
+Mobilising people and organisation to support the growth of your language can also help to build more advanced STT models.
 
 * At least 1,000 unique speakers per language.
 * 2,000 hours of voice validated to train a near-human general STT model.
-* 10,000 hours of voice validated for a very high quality, general, large vocabulary, continuous speech recognition model.
+* 10,000 hours of voice validated for very high quality, general, large vocabulary, continuous speech recognition model.
 
-![Data quantities](../../.gitbook/assets/data-quantities.png)
+![Data quantities](/assets/img/data-quantities.png)
 
-#### 
+## What should I consider when contributing Voice Data?
 
-#### How to join
+### Dataset Quality 
+* Every Language is unique please help [Localise validation guidelines](https://discourse.mozilla.org/t/discussion-of-new-guidelines-for-recording-validation/36465/79) to ensure they reflect your language's needs.
 
-Anyone can join this community. Join our [discourse forums](https://discourse.mozilla.org/c/voice/) or our [matrix chat](https://chat.mozilla.org/#/room/#common-voice:mozilla.org) and introduce yourself, jump into [Common Voice site](https://voice.mozilla.org), get familiar with it and start donating your voice.
+⚠️ _Note: Once you have recorded a decent amount of clips in your language (around 300), it’s more valuable for less effort if you jump into helping to get new voices from other people and focus on the voice validation part, this will increase the dataset quality
 
-🔨 _You don’t need any specialized skill to contribute to this community, you only need to be able to speak into a microphone or listen to audio clips._
+### Bias 
+Speech recognition doesn’t work equally for all demographics.
 
-#### What we do
+💬 Demographic information helps us balance the dataset, giving machine learning researchers and engineers a way to train models that represent better the speakers of the language. Balancing the dataset across demographics can help to tackle voice bias in voice technology.
+* Share on your profile information about your accent, age group, gender and dialect
+* Take part in the [Langauge Variant selection process](https://docs.google.com/presentation/d/18rafFef5uliLng9VylhHwHAr4m4nTA1fe2L7rL1S6CQ/edit?usp=sharing) 
+* Learn how Kiswahili Community is approaching [Gender in the community mobilisations](https://assets.mofoprod.net/network/documents/Gender_Action_Plan.pdf)  
+* Register your interest in being part of the [Gender Action Group](https://mozillafoundation.typeform.com/to/yluCogH1) 
+🎬  [Watch the Break the Bias Workshop] (https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=87d8a5f2-0641-4da2-aa59-aea600f1d1bc) to learn more
 
-⚠️ _In order to have a language enabled on our site, you will need at least 5000 validated sentences, see previous section about text corpus for reference._
 
-**Voice donation**
+---
+## Playbook Pages
+-[Localization](https://common-voice.github.io/community-playbook/sub_pages/Localization.html): Translating project tools and material to be understood by contributors in their language
+- [Text Corpus](https://common-voice.github.io/community-playbook/sub_pages/text.html): Gathering, validating and processing public domain sentences       
+- [Voice Corpus](https://common-voice.github.io/community-playbook/sub_pages/voice.html): Recording and validating voice clips to create a public domain dataset  
+-[Communities](https://common-voice.github.io/community-playbook/sub_pages/communities.html): Connect with the variety of communities participating in Common Voice
+-[Mobilization](https://common-voice.github.io/community-playbook/sub_pages/mobilization.html): Resources and tips for mobilizing your community          
+- [CC0 Waiver Process](https://common-voice.github.io/community-playbook/sub_pages/cc0waiver_process.html): How to secure a cc0 license for text corpus   
 
-We have developed a site that allows you to [donate your voice](https://voice.mozilla.org/speak) by reading sentences collected by the community.
-
-Feel free to create an account to track your progress and add more information on your profile about your voice. Demographic information helps us balance the dataset, giving machine learning researchers and engineers a way to train models that represent better the speakers of the language.
-
-ℹ️ [_Please read the following community guidelines_ ](https://discourse.mozilla.org/t/discussion-of-new-guidelines-for-recording-validation/36465)_to know how to produce better voice donations_.
-
-⚠️ _Note: Once you have recorded a decent amount of clips in your language \(around 300\), it’s more valuable for less effort if you jump into helping to get new voices from other people and focus on the voice validation part, this will increase the dataset quality._
-
-**Voice validation**
-
-The same site allows you to [review other people’s voices](https://voice.mozilla.org/listen) by listening to voices donated by the community. Each recording will need at least **two** positive validations from different people. Feel free to create an account to track your progress, compare with other contributors, set yourself goals or get awards badges.
-
- ℹ️ [_Please read the following community guidelines_](https://discourse.mozilla.org/t/discussion-of-new-guidelines-for-recording-validation/36465) _to know how to better validate voices_.
-
-**Community mobilization**
-
-You can help the community by organizing activities and encouraging others to do the same. Use the channels we have at our disposal to engage with other contributors in your language, talk about your ideas to grow the community and collect and validate more voices.
-
-ℹ️ _Check a few ideas from the_ [_Contribute to Common Voice activity_](https://community.mozilla.org/activities/contributing-to-common-voice/)_._
-
-⭐️ _You can re-use any_ [_graphical material_](https://drive.google.com/drive/u/0/folders/1RfgsCI6-rs1crh7OhlxryXO5-zN8JRErhttps://drive.google.com/drive/u/0/folders/1RfgsCI6-rs1crh7OhlxryXO5-zN8JRErhttps://drive.google.com/drive/u/0/folders/1RfgsCI6-rs1crh7OhlxryXO5-zN8JREr) _we have produced to support the project._
-
-**Community support**
-
-Help other contributors in [our discourse](https://discourse.mozilla.org/c/voice/239) and [matrix](https://chat.mozilla.org/#/room/#common-voice:mozilla.org) channels. Answering their questions about how to use the site or helping document reported issues [on github](https://github.com/mozilla/voice-web/issues).
-
-**Tooling development**
-
-The main [development of our site](https://github.com/mozilla/voice-web/) is led by our staff team, but anyone can submit pull requests based on open issues, or minor UI bugs.
-
-ℹ️ [_Please read the contribution guidelines_](https://github.com/mozilla/voice-web/blob/master/CONTRIBUTING.md) _before submitting any code_.
-
-**Dataset releases**
-
-The complete text and voice dataset for languages where we have data is currently generated by the Common Voice staff team.
-
-Currently, we are generating a new version of the datasets two times per year and publishing them [on our site](https://voice.mozilla.org/datasets).
-
-ℹ️ _Note that we are asking for an email to send the link to the dataset \(instead of direct download\) because we want to have a way to contact everyone who downloaded the data in case we get deletion requests from contributors._
-
-We understand that some people might want more frequent releases, and we are working on a more continuous release model to accommodate these needs.
-
-#### Roles
-
-These are some roles you can take as part of this community.
-
-* Voice donator: Donate your voice.
-* Voice validator: Help review other people’s voices.
-* Support: Join our community channels to support contributors with issues using our site.
-* Mobilizer: Help people in the community to get started and keep contributing.
-* Developer: Help submitting code and fixes to our site.
-
-#### Channels
-
-* [Common Voice discourse](https://discourse.mozilla.org/c/voice/) category.
-* [Common Voice matrix](https://chat.mozilla.org/#/room/#common-voice:mozilla.org) chat room.
-* [Common Voice project announcements](https://discourse.mozilla.org/tags/c/voice/announcements).
-
-💬 If your language already exists on Common Voice, make sure you [check and join the local discourse](https://voice.mozilla.org/about#get-involved) and matrix room. If that’s not the case, please create a new topic [on discourse](https://discourse.mozilla.org/c/voice/239) asking for one to be created.
 
