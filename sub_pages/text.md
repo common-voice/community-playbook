@@ -4,7 +4,7 @@ Contributors and collaborators help to develop text corpus from original and new
 You can use a variety of methods such as; 
 
 * [sentence collector](https://commonvoice.mozilla.org/sentence-collector/#/how-to) to contribute CC0 licensed content 
-* [bulk submission]() to contribute large files of sentences in txt format 
+* [bulk submission](https://github.com/common-voice/common-voice/blob/main/docs/SENTENCES.md#bulk-submission) to contribute large files of sentences in txt format 
 * [sentence extractor](https://github.com/Common-Voice/cv-sentence-extractor) from large sources of public domain text, with a focus easy-to-read corpus and Wikipedia.
 
 ⚠️ _ Mozilla Common Voice datasets are released under a CC0 “No Rights Reserved” License and are part of the public domain. This means that works subject to copyright cannot be added to Common Voice datasets. But some copyright owners are willing to make a [CC0 waiver](https://common-voice.github.io/community-playbook/sub_pages/cc0waiver_process.html), dedicating their work to the public domain so that it can be contributed to Common Voice.
